@@ -18,8 +18,8 @@
 
 
 ### DaconContest03. AI프렌즈 시즌1 온도 추정 경진대회
-- UnderFitting과 OverFitting에 대한 설명과 대처 방법
-
+- Under fitting과 Over fitting에 대한 설명과 대처 방법
+- LSTM 과 Transfer learning
 
 ### DaconContest04. 월간 데이콘 3 행동 데이터 분석 대회
 - 데이터 파일 Reduce Memory
