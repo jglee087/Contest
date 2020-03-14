@@ -7,7 +7,7 @@
 
 ### DaconContest01. 위성 이미지 객체 검출
 - R-CNN, Fast R-CNN, Faster R-CNN, RBox CNN 이론
-- Keras Faster R-CNN <<https://github.com/small-yellow-duck/keras-frcnn>>
+- Keras Faster R-CNN Jupyter Notebook <<https://github.com/small-yellow-duck/keras-frcnn>>
 
 ### DaconContest02. 월간 데이콘 2 천체 유형 분류
 - Outlier 제거
