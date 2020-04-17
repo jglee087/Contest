@@ -1,6 +1,6 @@
 ## Object Dectection 1
 
-R-CNN, Fast R-CNN, Faster R-CNN, RFCN, Mask R-CNN
+R-CNN, Fast R-CNN, Faster R-CNN, (R)FCN, Mask R-CNN
 
 
 
