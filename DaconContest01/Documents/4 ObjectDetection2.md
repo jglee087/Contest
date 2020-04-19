@@ -12,6 +12,12 @@ Localization, Detection, Segmentation
 
 
 
+
+
+![](./img/deep_learning_object_detection_history.png)
+
+
+
 #### 1. YOLO (You Only Look Once)
 
 #### 2. SSD (Single Shot Multibox Detector)
@@ -26,3 +32,4 @@ Localization, Detection, Segmentation
 
 https://nuggy875.tistory.com/20
 
+https://github.com/hoya012/deep_learning_object_detection
