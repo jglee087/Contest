@@ -1,6 +1,10 @@
-## Object Dectection 1
+## Object Detection 1
 
-R-CNN, Fast R-CNN, Faster R-CNN, (R)FCN, Mask R-CNN
+1. R-CNN
+2. Fast R-CNN
+3. Faster R-CNN
+4. R-FCN
+5. Mask R-CNN
 
 
 
@@ -85,7 +89,7 @@ R-CNN의 가장 큰 문제는 모든 객체 후보 영역에 대하여 개별적
 
 
 
-#### Fast R-CNN
+### 2. Fast R-CNN
 
 Fast R-CNN은 학습 시 multi-stage가 아니라 single-stage로 가능하고, 학습의 결과를 망에 있는 모든 layer에 update할 수 있어야 하며, feature caching을 위해 별도의 디스크 공간이 필요 없는 방법을 개발하는 것을 목표로 삼았다. 
 
@@ -99,7 +103,7 @@ Fast R-CNN의 기본 구조는 전체 이미지 및 객체 후보 영역을 한�
 
 
 
-#### Faster R-CNN
+### 3. Faster R-CNN
 
 ![](./img/FasterRCNN.png)
 
@@ -166,6 +170,12 @@ $$
 
 
 
-#### 정리
-
 ![](./img/RCNN.png)
+
+
+
+### 4. R-FCN
+
+
+
+### 5. Mask R-CNN

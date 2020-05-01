@@ -2,11 +2,15 @@
 
 
 
-Localization, Detection, Segmentation
+Localization
+
+Detection
+
+Segmentation
 
 
 
-### 1-Stage Detector VS 2-stage Detector
+### 1-Stage Detector vs 2-stage Detector
 
 ![](C:/Users/jungg/Documents/GitHub/Contest/DaconContest01/Documents/img/OneStage.png)
 
@@ -18,13 +22,17 @@ Localization, Detection, Segmentation
 
 
 
-#### 1. YOLO (You Only Look Once)
+### 1. YOLO (You Only Look Once) v1
 
-#### 2. SSD (Single Shot Multibox Detector)
+### 2. SSD (Single Shot Multibox Detector)
 
-#### 3. RetinaNet
+### 3. YOLO v2
 
-#### 4. RefineDet
+### 4. RetinaNet
+
+### 5. YOLO v3
+
+### 6. RefineDet
 
 
 
